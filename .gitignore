@@ -1,3 +1,5 @@
 venv/
 .env
 .github/workflows
+__pycache__
+test_mongodb.py
